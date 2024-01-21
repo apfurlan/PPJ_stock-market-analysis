@@ -1,0 +1,121 @@
+1692235349663	geckodriver	INFO	Listening on 127.0.0.1:51655
+1692235350168	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47139" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMUXbYE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692235350847	Marionette	INFO	Marionette enabled
+1692235350981	Marionette	INFO	Listening on port 45829
+WebDriver BiDi listening on ws://127.0.0.1:47139
+Read port: 45829
+1692235351192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47139/devtools/browser/231ade3b-d5fb-42d5-be81-93b69e840190
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This web push config can only be used on http://127.0.0.1:64780. Your current origin is https://statusinvest.com.br.
+1692235358722	Marionette	INFO	Stopped listening on port 45829
+1692235450430	geckodriver	INFO	Listening on 127.0.0.1:32989
+1692235450933	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "44889" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHAfW7X"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692235451480	Marionette	INFO	Marionette enabled
+1692235451579	Marionette	INFO	Listening on port 42817
+WebDriver BiDi listening on ws://127.0.0.1:44889
+Read port: 42817
+1692235451736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44889/devtools/browser/1e0cd203-2f67-488c-bcda-389edfee62d0
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This web push config can only be used on http://127.0.0.1:64780. Your current origin is https://statusinvest.com.br.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1692235509041	Marionette	INFO	Stopped listening on port 42817
+1692235690810	geckodriver	INFO	Listening on 127.0.0.1:39001
+1692235691313	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileO77IyI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692235691834	Marionette	INFO	Marionette enabled
+1692235691928	Marionette	INFO	Listening on port 34675
+WebDriver BiDi listening on ws://127.0.0.1:54483
+Read port: 34675
+1692235692092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54483/devtools/browser/e360625f-9be0-4af3-a93d-03ffcd795283
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This web push config can only be used on http://127.0.0.1:64780. Your current origin is https://statusinvest.com.br.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+1692235744262	geckodriver	INFO	Listening on 127.0.0.1:43361
+1692235744764	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "33075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePaFc4m"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692235745314	Marionette	INFO	Marionette enabled
+1692235745400	Marionette	INFO	Listening on port 33407
+WebDriver BiDi listening on ws://127.0.0.1:33075
+Read port: 33407
+1692235745561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33075/devtools/browser/b9851f27-1422-4130-9f55-97c4eb7acd52
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This web push config can only be used on http://127.0.0.1:64780. Your current origin is https://statusinvest.com.br.
+1692235806527	geckodriver	INFO	Listening on 127.0.0.1:45675
+1692235807030	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54029" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebKxFwt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692235807543	Marionette	INFO	Marionette enabled
+1692235807626	Marionette	INFO	Listening on port 32911
+Read port: 32911
+WebDriver BiDi listening on ws://127.0.0.1:54029
+1692235807666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54029/devtools/browser/012bd1eb-8eea-4027-b21a-a2ca9523d8fd
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This web push config can only be used on http://127.0.0.1:64780. Your current origin is https://statusinvest.com.br.
+1692235815006	Marionette	INFO	Stopped listening on port 32911
+1692235855813	geckodriver	INFO	Listening on 127.0.0.1:55723
+1692235856316	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43161" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVrB3aE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692235856818	Marionette	INFO	Marionette enabled
+1692235856916	Marionette	INFO	Listening on port 42601
+WebDriver BiDi listening on ws://127.0.0.1:43161
+Read port: 42601
+1692235857070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43161/devtools/browser/8539cd85-b330-4ccb-85ac-867826ab139c
+1692235860014	Marionette	INFO	Stopped listening on port 42601
+console.error: (new Error("IndexedDB: main/url-classifier-skip-urls list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+1692235935140	geckodriver	INFO	Listening on 127.0.0.1:36321
+1692235935643	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebLLN9W"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692235936163	Marionette	INFO	Marionette enabled
+1692235936258	Marionette	INFO	Listening on port 45645
+WebDriver BiDi listening on ws://127.0.0.1:34695
+Read port: 45645
+1692235936415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34695/devtools/browser/13b5942f-17b5-4486-9784-b8dc224aacea
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This web push config can only be used on http://127.0.0.1:64780. Your current origin is https://statusinvest.com.br.
